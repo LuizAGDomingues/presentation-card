@@ -8,7 +8,7 @@ export default function Home() {
             <div className='bg-[#121214] bg-center bg-cover grid'>
                 <img src="../../images/Desktop.svg" alt="gradiente do fundo" className="absolute m-0 w-full h-screen object-cover"/>
                 <Ficha1 />
-                <div className="hidden md:block">
+                <div className="mt-24 md:mt-[8.75rem] md:block">
                     <Footer />
                 </div>
             </div>
