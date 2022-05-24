@@ -4,7 +4,7 @@ import { ArrowCircleLeft, WhatsappLogo, Envelope, TelegramLogo, Browser } from '
 export default function HeaderMenu() {
     return(
         <div>
-        <div className="flex p-9">
+        <div className="flex p-9 animate-fade">
             <Link to='/' className="flex-none ml-1"><ArrowCircleLeft size={35}/></Link>
             <ul className="flex gap-10 ml-auto items-center">
                 <li className="flex-initial">

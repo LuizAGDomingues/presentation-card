@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export function Ficha1() {
     return (
-      <div className='h-auto max-w-sm mx-auto text-center text-gray font-medium text-lg font-Roboto z-0'>
+      <div className='h-auto max-w-sm mx-auto text-center text-gray font-medium text-lg font-Roboto z-0 animate-fade'>
         <img src="../../images/background.svg" alt="Imagem de fundo" className="absolute ml-[0.3rem] -z-[1] mt-10 md:mt-36 md:mx-[0.85rem] md:w-[22.37rem] md:h-[38rem] md:object-cover"/>
         <div>
           <img src="../../images/faixa1.svg" alt="Faixa do cartao" className="hidden md:block mx-[10.1rem]"/>
