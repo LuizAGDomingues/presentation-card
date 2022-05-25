@@ -19,7 +19,7 @@ export default function AboutLuiz() {
                                  mainly from renewable and atomic sources.
                             </span>
                         </li>
-                        <li className="mb-10 max-w-md max-h-md animate-side2 lg:animate-move2">
+                        <li className="mb-7 max-w-md max-h-md animate-side2 lg:animate-move2">
                             <img src="../../images/Gerenciador-logins.JPG" alt="Imagem de Fontes de energia renováveis" />
                             <span>
                             Login manager, created entirely with Python. It is possible to generate random passwords according to the user's preference,
@@ -28,11 +28,12 @@ export default function AboutLuiz() {
                                  <img src="../../images/github.svg" alt="ícone github" /> Github repository </a>
                             </span>
                         </li>
-                        <li className="max-w-md max-h-md animate-side3 lg:animate-move3">
+                        <li className="mb-4 max-w-md max-h-md animate-side3 lg:animate-move3">
                             <img src="../../images/Presentation-cards.JPG" alt="Imagem do site"/>
                             <span>
                             This site itself was created in order to learn how to use more Front-end programming tools,
                              such as react, tailwindcss and vite. As well as other concepts such as website hosting and communication.
+                             The idea of this page is to contain other cards of introduction, forming a set. For example for the presentation of project members of a company.
                             </span>
                         </li>
                     </ul>
